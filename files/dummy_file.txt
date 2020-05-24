@@ -1,0 +1,6 @@
+This is a dummy file that i intend to use to learn how python mainuplates files.
+over the course i may add more content to this file
+AS of mow, i have to say python is super cool
+and I love is
+Looking forward to building cool projects with python..
+soooooooo awesome!
