@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26e47ac0-f6c5-4d7c-b211-289b0c634e8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bk3N8SYhn96vZLwJUHKsqu7Toz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inheritance" />
+      <recent name="$PROJECT_DIR$/modules" />
+      <recent name="$PROJECT_DIR$/decorators" />
+      <recent name="$PROJECT_DIR$/generators" />
+      <recent name="$PROJECT_DIR$/comprehension" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.password_validation">
+    <configuration name="email_validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex/email_validation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/file_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="password_validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex/password_validation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reg_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex/reg_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="writing_creating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/writing_creating.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.writing_creating" />
+      <item itemvalue="Python.file_exercise" />
+      <item itemvalue="Python.reg_ex" />
+      <item itemvalue="Python.email_validation" />
+      <item itemvalue="Python.password_validation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.password_validation" />
+        <item itemvalue="Python.email_validation" />
+        <item itemvalue="Python.reg_ex" />
+        <item itemvalue="Python.file_exercise" />
+        <item itemvalue="Python.writing_creating" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26e47ac0-f6c5-4d7c-b211-289b0c634e8a" name="Default Changelist" comment="" />
+      <created>1589162221754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589162221754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="129" width="1099" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589191539866">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="410" y="129" width="1099" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1589191539866" />
+    <state x="636" y="173" width="636" height="712" key="FileChooserDialogImpl" timestamp="1589191537912">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="636" y="173" width="636" height="712" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1589191537912" />
+    <state width="1889" height="284" key="GridCell.Tab.0.bottom" timestamp="1590258873366">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1590201547334">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1032@0.0.1920.1032" timestamp="1590201547334" />
+    <state width="1889" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1590258873366" />
+    <state width="1889" height="284" key="GridCell.Tab.0.center" timestamp="1590258873365">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1590201547333">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1032@0.0.1920.1032" timestamp="1590201547333" />
+    <state width="1889" height="284" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1590258873365" />
+    <state width="1889" height="284" key="GridCell.Tab.0.left" timestamp="1590258873364">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1590201547333">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1032@0.0.1920.1032" timestamp="1590201547333" />
+    <state width="1889" height="284" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1590258873364" />
+    <state width="1889" height="284" key="GridCell.Tab.0.right" timestamp="1590258873366">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1590201547333">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="285" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1032@0.0.1920.1032" timestamp="1590201547333" />
+    <state width="1889" height="284" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1590258873366" />
+    <state width="1889" height="305" key="GridCell.Tab.1.bottom" timestamp="1589587561511">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589587561511" />
+    <state width="1889" height="305" key="GridCell.Tab.1.center" timestamp="1589587561510">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="305" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589587561510" />
+    <state width="1889" height="305" key="GridCell.Tab.1.left" timestamp="1589587561509">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="305" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589587561509" />
+    <state width="1889" height="305" key="GridCell.Tab.1.right" timestamp="1589587561510">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1889" height="305" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589587561510" />
+    <state x="324" y="0" width="1482" height="1032" key="SettingsEditor" timestamp="1590090269715">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="324" y="0" width="1482" height="1032" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1590090269715" />
+    <state x="453" y="0" width="1009" height="1028" key="search.everywhere.popup" timestamp="1590356251432">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="453" y="0" width="1009" height="1028" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1590356251432" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/files/reading_file.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
